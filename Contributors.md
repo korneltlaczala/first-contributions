@@ -2134,6 +2134,7 @@ gulshan
 - [Dohyun Kim](https://github.com/dohyundev)
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
 - [Swati Kumari](https://github.com/Swati9690/first-contributions.git)
+- [Kornel Tłaczała](https://github.com/korneltlaczala)
 - Jack Huynh(https://github.com/JackHuynh0610)
 -[Bandana kumari](https://github.com/codewithana)
 - [Gabriel M]
